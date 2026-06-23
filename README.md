@@ -23,7 +23,7 @@ I'm currently working through structured curricula in the areas below, alongside
 
 ### Completed
 
-- [x] CompTIA Tech+ Full Course
+- [x] CompTIA Tech+ (FC0-U71) Full Course
   - Assessment Status: **Passed ITCS Internal Assessment**
 
 - [x] CompTIA A+ (220-1201 & 220-1202) Full Course
