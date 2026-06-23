@@ -29,15 +29,6 @@
 
 ---
 
-### Virtualisation and Cloud Computing
-
-- Cloud service models
-  - IaaS (Infrastructure as a Service)
-  - PaaS (Platform as a Service)
-  - SaaS (Software as a Service)
-
----
-
 ### Security
 
 - Physical vs logical security controls
