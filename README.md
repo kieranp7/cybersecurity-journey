@@ -2,7 +2,7 @@
 
 I'm Kieran and I hold a BSc in Computer Science, with the goal of transitioning into Cybersecurity.
 
-I'm currently working through structured curricula in the areas below, alongside TryHackMe rooms and practical lab sessions for hands-on experience.
+I'm currently working through structured curricula in the areas below, alongside TryHackMe & Hack The Box rooms and practical lab sessions for hands-on experience.
 
 ## Qualifications
 
@@ -21,20 +21,26 @@ I'm currently working through structured curricula in the areas below, alongside
 
 ## ITCS traineeship — courses, milestones and completions (with certificate of completion)
 
+### Completed
+
 - [x] CompTIA Tech+ Full Course
-  - [x] ITCS internal assessment
+  - Assessment Status: **Passed ITCS Internal Assessment**
+
 - [x] CompTIA A+ (220-1201 & 220-1202) Full Course
-  - [x] ITCS internal assessment
+  - Assessment Status: **Passed ITCS Internal Assessment**
+
+### In Progress
+
 - [ ] CompTIA Network+ (N10-009) Full Course
-  - [ ] ITCS internal assessment
+  - Assessment Status: Pending
+
+### Planned
+
 - [ ] CompTIA Security+ (SY0-701) Full Course
-  - [ ] ITCS internal assessment
 - [ ] Cisco CCNA (200-301) Full Course
-  - [ ] ITCS internal assessment
 - [ ] Microsoft Azure Fundamentals (AZ-900) Full Course
-  - [ ] ITCS internal assessment
 - [ ] ITCS Live Labs
-- [ ] CompTIA A+ official exams (220-1201 & 220-1202)
+- [ ] CompTIA A+ Official Exams (220-1201 & 220-1202)
 
 ## Repository Contents
 
