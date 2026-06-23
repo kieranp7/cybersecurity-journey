@@ -4,10 +4,14 @@ I'm Kieran and I hold a BSc in Computer Science, with the goal of transitioning 
 
 I'm currently working through structured curricula in the areas below, alongside TryHackMe rooms and practical lab sessions for hands-on experience.
 
-## Official qualifications and certifications
+## Qualifications
 
-- BSc (Hons) in Computer Science
+### Academic
+- BSc (Hons) Computer Science
 - Level 2 Certificate in Principles of Cybersecurity
+
+### Industry Certifications
+- In progress
 
 ## ITCS traineeship — courses and milestones
 
