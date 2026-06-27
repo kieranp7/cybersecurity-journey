@@ -19,7 +19,7 @@ I'm currently working through structured curricula in the areas below, alongside
 - [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-green)](https://profile.hackthebox.com/profile/019ef4e7-7242-71e1-bd46-896a5198df01)
 - Live labs - see `/labs` for more information
 
-## ITCS traineeship — courses, milestones and completions (with certificate of completion)
+## IT Career Switch traineeship — courses, milestones and completions (with certificate of completion)
 
 ### Completed
 
