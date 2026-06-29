@@ -4,6 +4,8 @@ I'm Kieran and I hold a BSc in Computer Science, with the goal of transitioning 
 
 I'm currently working through structured curricula in the areas below, alongside TryHackMe rooms, Hack The Box rooms and practical lab sessions for hands-on experience.
 
+---
+
 ## Qualifications
 
 ### Academic
@@ -13,11 +15,15 @@ I'm currently working through structured curricula in the areas below, alongside
 ### Industry Certifications
 - In progress
 
+---
+
 ## Practical Experience
 
 - [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/kieranp7)
 - [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-green)](https://profile.hackthebox.com/profile/019ef4e7-7242-71e1-bd46-896a5198df01)
 - Live labs - see `/labs` for more information
+
+---
 
 ## IT Career Switch traineeship - courses, milestones and completions (with certificate of completion)
 
@@ -41,6 +47,8 @@ I'm currently working through structured curricula in the areas below, alongside
 - [ ] Microsoft Azure Fundamentals (AZ-900) Full Course
 - [ ] ITCS Live Labs
 - [ ] CompTIA A+ Official Exams (220-1201 & 220-1202)
+
+---
 
 ## Repository Contents
 
