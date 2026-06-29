@@ -26,6 +26,7 @@
 - **Subnetting** - comfortable with simple /24 subnets but need more reps on uneven subnet sizes (the Delta 128 and Delta 64 exercises) before it's instinctive
 - **CIDR notation to subnet mask conversion** - need more practise on the conversions
 - **Telling transceiver module types apart** (SFP, SFP+, QSFP) - names and use cases still blurring together
+- - **Cable types and connectors:** can't remember all of the different cable types and connectors
 
 ## Next up
 
