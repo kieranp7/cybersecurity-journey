@@ -1,6 +1,6 @@
 # Progress update
 
-**Progress:** Section 1 (Networking Concepts) — lessons 1.1–1.9 complete. 1.10 (Modern Network Environments) carrying into next week.
+**Progress:** Around 12-13 hours of Network+ video content have been completed so far, as well as continuing the TryHackMe Pre-Security path.
 
 ## What I covered this week
 
