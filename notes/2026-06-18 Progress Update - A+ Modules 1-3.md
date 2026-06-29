@@ -14,7 +14,7 @@
   - Total time so far: ~15 hours
 
 - **TryHackMe**
-  - Completed various rooms (hands-on practice in cybersecurity fundamentals)
+  - Completed various rooms (hands-on practice in cyber security fundamentals)
 
 ---
 
