@@ -1,6 +1,8 @@
 # CompTIA Network+ (N10-009) Continued
 
-**Progress:** Section 1 & 2 complete. Section 3 started and will hopefully be completed within the next week.
+**Progress:** 
+- Section 1, 2 & 3 complete.
+- TryHackMe Pre Security path complete, with certificate of completion gained.
 
 ## What I covered this week
 
