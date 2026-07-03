@@ -17,8 +17,8 @@ I'm currently working through structured curricula in the areas below, alongside
 
 ### Certificates of Completion
 - TryHackMe Pre Security Path
-- ITCS CompTIA A+
-- ITCS CompTIA Tech+
+- ITCS CompTIA A+ (30 hours)
+- ITCS CompTIA Tech+ (7 hours)
   
 ---
 
