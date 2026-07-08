@@ -1,8 +1,11 @@
 # CompTIA Network+ (N10-009) 
 
-**Progress:** Sections 3 and 4 are complete (Network Operations and Network Security). Section 5 (Network Troubleshooting) is underway - lessons 5.1–5.3 done (around 38 hours completed so far for Network+).
+**Progress:** 
+- Sections 3 and 4 complete (Network Operations and Network Security). 
+- Section 5 (Network Troubleshooting) lessons 5.1–5.3 done.
+- Around 38 hours completed so far for Network+.
 
-**TryHackMe:** Pre-Security path is fully complete. Now on Cyber Security 101 path - modules 1 and 2 done, module 3 in progress up to Active Directory Basics.
+**TryHackMe:** Now on Cyber Security 101 path - modules 1 and 2 done, module 3 in progress up to Active Directory Basics.
 
 ## What I covered this week
 
