@@ -1,6 +1,6 @@
 # CompTIA Network+ (N10-009)
 
-**Progress:** Section 5 (Network Troubleshooting) complete. Network+ course fully done ✓
+**Progress:** Section 5 (Network Troubleshooting) complete. Network+ course fully done (41.5 hours) ✓
 
 **TryHackMe:** Cyber Security 101 path - modules 1, 2, 3, and 4 complete.
 
