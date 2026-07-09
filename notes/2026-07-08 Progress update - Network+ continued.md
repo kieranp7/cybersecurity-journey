@@ -7,7 +7,7 @@
 
 **TryHackMe:** Now on Cyber Security 101 path - modules 1 and 2 done, module 3 in progress up to Active Directory Basics.
 
-## What I covered this week
+## What I covered
 
 - **3.3 Disaster Recovery** - backup strategies, site types, RTO and RPO
 - **3.4 IPv4 and IPv6 Network Services** - DHCP relay agents, DNS record types, IPv6 addressing
