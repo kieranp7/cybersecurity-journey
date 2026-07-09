@@ -4,7 +4,7 @@
 - Section 1, 2 & 3 complete.
 - TryHackMe Pre Security path complete, with certificate of completion gained.
 
-## What I covered this week
+## What I covered
 
 - **1.10 Modern Network Environments** - SDN, network virtualisation, cloud networking, software-defined WAN
 - **2.1 Implementing Routing Technologies** - static vs dynamic routing, routing protocols, NAT/PAT
