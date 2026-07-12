@@ -4,10 +4,10 @@ This folder is evidence that the hands-on work actually happened - not just read
 
 ## What goes here
 
-- Records of completed labs from platforms like TryHackMe, HackTheBox, or similar
+- Records of completed labs from platforms like the ITCS labs, TryHackMe, HackTheBox, or similar
 - Home lab exercises (setting up VMs, vulnerable machines, mini ranges)
 - CTF challenges attempted, whether completed or not
-- Supporting evidence: screenshots, terminal output, command logs
+- Supporting evidence: screenshots, terminal output, command logs, etc
 
 ## Ground rules
 
