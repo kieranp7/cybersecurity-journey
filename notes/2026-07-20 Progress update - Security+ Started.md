@@ -35,7 +35,7 @@
 - **2.17 Password Attack Indicators** - brute force, dictionary, rainbow table, credential stuffing, password spraying
 - **2.18–2.20 Network Segmentation, Access Control, Device Hardening** - defence in depth, least privilege, hardening baselines
 
-## Activities/Labs completed (shown in /labs where applicable)
+## Activities/Labs completed (shown in `labs/` where applicable)
 
 - **1.3.1 Testing a Honeypot** - deployed and observed attacker interaction with a decoy system
 - **1.6.1 Examining Symmetric Encryption** - observed AES encryption and decryption in action
