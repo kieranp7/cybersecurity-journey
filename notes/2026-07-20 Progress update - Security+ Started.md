@@ -4,7 +4,7 @@
 
 **TryHackMe:** Cyber Security 101 path - continuing from Module 5 (Networking).
 
-## What I covered this week
+## What I covered
 
 - **1.1 Fundamental Security Concepts** - CIA triad, AAA framework, non-repudiation, authentication vs authorisation
 - **1.2 Zero Trust** - never trust always verify, microsegmentation, identity as the new perimeter
