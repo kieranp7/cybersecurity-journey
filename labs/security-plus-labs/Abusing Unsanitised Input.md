@@ -1,7 +1,7 @@
 # Lab: Abusing Unsanitised Input
 
 ## Objective
-In this lab, I will cause a vulnerable web app to execute an unauthorised command using Metasploitable2 and a standard web browser.
+In this lab, I caused a vulnerable web app to execute an unauthorised command using Metasploitable2 and a standard web browser.
 
 ## Steps taken
 - Verified the IP address of Metasploitable2 and pinged it to check that the connection is up
