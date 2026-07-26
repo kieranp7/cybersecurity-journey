@@ -17,9 +17,10 @@ I'm currently working through structured curricula in the areas below, alongside
 
 ### Certificates of Completion & Training
 - TryHackMe Pre Security Path
-- ITCS Comptia Network+ (41 hours)
-- ITCS CompTIA A+ (30 hours)
-- ITCS CompTIA Tech+ (7 hours)
+- CompTIA Security+ (30 hours + labs)
+- CompTIA Network+ (41 hours)
+- CompTIA A+ (30 hours)
+- CompTIA Tech+ (7 hours)
   
 ---
 
@@ -35,26 +36,28 @@ I'm currently working through structured curricula in the areas below, alongside
 
 ### Completed
 
-- [x] CompTIA Tech+ (FC0-U71) Full Course
-  - Assessment Status: **Passed ITCS Internal Assessment**
+- [x] CompTIA Tech+
+  - **Passed ITCS Internal Assessment**
 
-- [x] CompTIA A+ (220-1201 & 220-1202) Full Course
-  - Assessment Status: **Passed ITCS Internal Assessment**
+- [x] CompTIA A+
+  - **Passed ITCS Internal Assessment**
 
-- [x] CompTIA Network+ (N10-009) Full Course
-  - Assessment Status: **Passed ITCS Internal Assessment**
+- [x] CompTIA Network+
+  - **Passed ITCS Internal Assessment**
+
+- [x] CompTIA Security+
+  - **Passed ITCS Internal Assessment**
 
 ### In Progress
 
-- [ ] CompTIA Security+ (SY0-701) Full Course
+- [ ] Cisco CCNA
   - Assessment Status: Pending
 
 ### Planned
 
-- [ ] Cisco CCNA (200-301) Full Course
-- [ ] Microsoft Azure Fundamentals (AZ-900) Full Course
+- [ ] Microsoft Azure Fundamentals
 - [ ] ITCS Live Labs
-- [ ] CompTIA A+ Official Exams (220-1201 & 220-1202)
+- [ ] CompTIA A+ Official Exams
 
 ---
 
