@@ -7,7 +7,7 @@ This is the running journal for my cyber security journey - informal, regular, a
 - Progress updates: what was studied this week, what clicked, what didn't
 - Quick concept notes that don't need a full write-up 
 - Reflections on direction - what to focus on next, tools worth exploring, courses or certs being considered
-- Links back to relevant entries in `labs/`, `diagrams/`, or `writeup/` where a note relates to something more substantial
+- Links back to relevant entries in `labs/` or `diagrams/` where a note relates to something more substantial
 
 ## Why it matters
 
