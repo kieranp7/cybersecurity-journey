@@ -17,6 +17,7 @@ I'm currently working through structured curricula in the areas below, alongside
 
 ### Certificates of Completion & Training
 - TryHackMe Pre Security Path
+- CISCO CCNA (35 hours)
 - CompTIA Security+ (30 hours + labs)
 - CompTIA Network+ (41 hours)
 - CompTIA A+ (30 hours)
@@ -48,14 +49,15 @@ I'm currently working through structured curricula in the areas below, alongside
 - [x] CompTIA Security+
   - **Passed ITCS Internal Assessment**
 
+- [x] Cisco CCNA
+  - **Passed ITCS Internal Assessment**
+    
 ### In Progress
+- [ ] Microsoft Azure Fundamentals
+  - Pending internal exam
 
-- [ ] Cisco CCNA
-  - Assessment Status: Pending
 
 ### Planned
-
-- [ ] Microsoft Azure Fundamentals
 - [ ] ITCS Live Labs
 - [ ] CompTIA A+ Official Exams
 
